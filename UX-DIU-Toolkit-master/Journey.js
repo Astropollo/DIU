@@ -34,8 +34,8 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Ángela",
-                Photo: "man.png",
+				Name: "Ángela Martinez",
+                Photo: "chica.jpeg",
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Sus amigos la han invitado a ir a Granada de viaje y buscan lugar donde hospedarse y actividades que hacer",
@@ -92,54 +92,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Alberto Nodales",
+                Photo: "chico.jpeg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
+                goal1: "Quiere aprovechar el puente de andalucia para salir un poco de la rutina",
                 touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                feel1: "4",
+                con1: "Quiere ahorrar para estudiar agente de cabina",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
+                goal2: "Su compañero de piso le cuenta de una nueva forma de viajar barato y conocer gente(hostel)",
+                touch2: "Boca a boca (amigo)",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                con2: "Tiene que escoger todavia un destino no muy caro y decidir a cual ir",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                goal3: "Decide ir a granada que todavia no a ido y encuentra una pagina muy buena de buscador de hostels",
+                touch3: "buscador muy comodo de hostels(hostelworld)",
+                feel3: "4",
+                con3: "Tiene que buscar alguna forma de llegar hasta granada barata",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
+                goal4: "Busca un hostel cerca del centro en el buscador y un metodo de transporte comodo y barato",
                 touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                feel4: "3",
+                con4: "Se decide por uno de los destacados y que cuesta menos dinero tras perder mucho tiempo mirando, no encuentra ningun metodo comodo y barato para llegar y termina cogiendose un bus de varias horas",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
+                goal5: "Llega al hostel y descubre un gran ambiente juvenil y jovial que le quita los nervios de esta nueva experiencia",
+                touch5: "Fisico",
+                feel5: "5",
+                con5: "Tuvo que coger un autobus para llegar desde la estacion hasta el hostel",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
+                goal6: "Ha pasado un fin de semana alucinante y ha conocido a mucha gente nueva con la que espera seguir en contacto",
+                touch6: "Fisico",
                 feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
+                con6: "No encuentra una de sus camisas, puede que alguien se haya equivocado o que se la hallan cogido. Tiene que volverse a coger el bus interminable hasta casa",
                 ima6: "cartoon-PChard.png",
                 
                 
