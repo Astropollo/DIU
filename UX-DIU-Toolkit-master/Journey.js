@@ -53,15 +53,15 @@ angular.module("angular", [])
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide que un hostal es la mejor opción para ella y sus amigos por la variedad de actividades que ofrecen",
+                goal3: "Decide que un hostel es la mejor opción para ella y sus amigos por la variedad de actividades que ofrecen",
                 touch3: "ordenador",
                 feel3: "3",
-                con3: "Ahora tiene que visitar las páginas de los diferentes hostales en Granada (que son bastantes) y se hace tedioso",
+                con3: "Ahora tiene que visitar las páginas de los diferentes hostels en Granada (que son bastantes) y se hace tedioso",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca las actividades que proporciona cada hostal al gusto del grupo",
+                goal4: "Busca las actividades que proporciona cada hostel al gusto del grupo",
                 touch4: "ordenador",
                 feel4: "4",
                 con4: "Muchos hostales proporcionan muchas actividades diferentes y no tienen tiempo para todas.",
@@ -78,7 +78,7 @@ angular.module("angular", [])
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "El grupo se decide por un hostal",
+                goal6: "El grupo se decide por un hostel",
                 touch6: "ordenador",
                 feel6: "4",
                 con6: "No saben exactamente a qué actividades se van a apuntar todavía.",
