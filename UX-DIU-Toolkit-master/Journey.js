@@ -38,14 +38,14 @@ angular.module("angular", [])
                 Photo: "chica.jpeg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Sus amigos la han invitado a ir a Granada de viaje y buscan lugar donde hospedarse y actividades que hacer",
+                goal1: "Su grupo de amigos planea realizar un viaje juntos",
                 touch1: "calendario",
                 feel1: "5",
                 con1: "Tienen que encontrar una época del año que les venga bien a todos. Como estudian la misma carrera no les es difícil, tienen las mismas fiestas. ",
-                ima1: "cartoon-planning.png",
+                ima1: "cartoon-teamthinking.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Buscar en internet qué hospedajes hay en Granada y alrededores",
+                goal2: "Investigando en internet llegan a la conclusión de que Granada es un buen sitio al que viajar",
                 touch2: "ordenador",
                 feel2: "2",
                 con2: "Hay muchas opciones disponibles, por lo que la búsqueda se hace muy pesada.",
@@ -53,35 +53,35 @@ angular.module("angular", [])
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide que un hostel es la mejor opción para ella y sus amigos por la variedad de actividades que ofrecen",
+                goal3: "Deciden que un hostal es la mejor opción por la variedad de actividades que ofrecen y el precio asequible",
                 touch3: "ordenador",
                 feel3: "3",
                 con3: "Ahora tiene que visitar las páginas de los diferentes hostels en Granada (que son bastantes) y se hace tedioso",
-                ima3: "cartoon-phone.png",
+                ima3: "cartoon-PChard.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca las actividades que proporciona cada hostel al gusto del grupo",
+                goal4: "Investigan las diferentes opciones que tienen para llegar hasta el hostal seleccionado",
                 touch4: "ordenador",
                 feel4: "4",
-                con4: "Muchos hostales proporcionan muchas actividades diferentes y no tienen tiempo para todas.",
-                ima4: "cartoon-PCtyping.png",
+                con4: "La gasolina está cara, por lo que tienen que considerar opciones que no sean vehículos propios.",
+                ima4: "cartoon-PChappy.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Encuentra varias opciones que se ajustan bastante a lo que buscan",
-                touch5: "móvil",
-                feel5: "3",
-                con5: "Manda un mensaje por el grupo que tiene con sus amigos contándoles lo que ha encontrado y tiene que esperar a que le respondan sobre sus opiniones.",
-                ima5: "cartoon-phoning.png",
+                goal5: "Cuando llegan al hostal les comunican que ha habido un cambio de última hora en las habitaciones y se van a tener que repartir en dos grupos",
+                touch5: "boca a boca",
+                feel5: "1",
+                con5: "La ruptura de los planes planteados genera descontento",
+                ima5: "cartoon-talking.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "El grupo se decide por un hostel",
-                touch6: "ordenador",
-                feel6: "4",
-                con6: "No saben exactamente a qué actividades se van a apuntar todavía.",
+                goal6: "Concluyen sus vacaciones en Granada y realizan muchas actividades al final.",
+                touch6: "físico",
+                feel6: "3",
+                con6: "La experiencia ha sido agradable, pero el cambio de habitaciones en último momento no le ha sentado nada bien al grupo",
                 ima6: "cartoon-resting.png",
                 
 			},
