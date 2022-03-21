@@ -50,7 +50,7 @@ Gente con no muchos problemas a la hora de socializar y mayoritariamente jovenes
 
 ![Alberto](fotos/JourneyMap-Nodales.png)
 
-![Angela](fotos/HourneyMap-Angela.png)
+![Angela](fotos/JourneyMap-Angela.png)
 
 Ambos han tenido distintos puntos de vista de las experiencias. Mientras que Ángela buscaba mas tema servicios y demas, 
 Alberto iba un poco mas a ver lo que se encontraba y fiandose mas de lo que le habian contado.

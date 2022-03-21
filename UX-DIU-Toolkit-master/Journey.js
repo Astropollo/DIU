@@ -53,7 +53,7 @@ angular.module("angular", [])
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Deciden que un hostal es la mejor opción por la variedad de actividades que ofrecen y el precio asequible",
+                goal3: "Deciden que un hostel es la mejor opción por la variedad de actividades que ofrecen y el precio asequible",
                 touch3: "ordenador",
                 feel3: "3",
                 con3: "Ahora tiene que visitar las páginas de los diferentes hostels en Granada (que son bastantes) y se hace tedioso",
@@ -61,7 +61,7 @@ angular.module("angular", [])
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Investigan las diferentes opciones que tienen para llegar hasta el hostal seleccionado",
+                goal4: "Investigan las diferentes opciones que tienen para llegar hasta el hostel seleccionado",
                 touch4: "ordenador",
                 feel4: "4",
                 con4: "La gasolina está cara, por lo que tienen que considerar opciones que no sean vehículos propios.",
@@ -69,7 +69,7 @@ angular.module("angular", [])
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Cuando llegan al hostal les comunican que ha habido un cambio de última hora en las habitaciones y se van a tener que repartir en dos grupos",
+                goal5: "Cuando llegan al hostel les comunican que ha habido un cambio de última hora en las habitaciones y se van a tener que repartir en dos grupos",
                 touch5: "boca a boca",
                 feel5: "1",
                 con5: "La ruptura de los planes planteados genera descontento",
@@ -107,7 +107,7 @@ angular.module("angular", [])
                 touch2: "Boca a boca (amigo)",
                 feel2: "4",
                 con2: "Tiene que escoger todavia un destino no muy caro y decidir a cual ir",
-                ima2: "cartoon-teamthinking.png",
+                ima2: "cartoon-speaking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
@@ -115,7 +115,7 @@ angular.module("angular", [])
                 touch3: "buscador muy comodo de hostels(hostelworld)",
                 feel3: "4",
                 con3: "Tiene que buscar alguna forma de llegar hasta granada barata",
-                ima3: "cartoon-phoningangry.png",
+                ima3: "cartoon-PCtyping.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
@@ -123,7 +123,7 @@ angular.module("angular", [])
                 touch4: "Móvil (webapp)",
                 feel4: "3",
                 con4: "Se decide por uno de los destacados y que cuesta menos dinero tras perder mucho tiempo mirando, no encuentra ningun metodo comodo y barato para llegar y termina cogiendose un bus de varias horas",
-                ima4: "cartoon-phone-street.png",
+                ima4: "cartoon-PChard.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
@@ -131,7 +131,7 @@ angular.module("angular", [])
                 touch5: "Fisico",
                 feel5: "5",
                 con5: "Tuvo que coger un autobus para llegar desde la estacion hasta el hostel",
-                ima5: "cartoon-phone-sitting.png",
+                ima5: "cartoon-happy.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
@@ -140,7 +140,7 @@ angular.module("angular", [])
                 touch6: "Fisico",
                 feel6: "2",
                 con6: "No encuentra una de sus camisas, puede que alguien se haya equivocado o que se la hallan cogido. Tiene que volverse a coger el bus interminable hasta casa",
-                ima6: "cartoon-PChard.png",
+                ima6: "cartoon-sad.png",
                 
                 
                 
