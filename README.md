@@ -38,7 +38,7 @@ fotos/Captura-tabla.png
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-![Alberto](fotos/Alberto-Nodales-Profile.jpeg)
+![Alberto](fotos/Alberto-Nodales-Profile.png)
 
 ![Angela](fotos/Angela-Martinez-profile.png)
 
