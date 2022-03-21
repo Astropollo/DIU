@@ -57,11 +57,9 @@ Alberto iba un poco mas a ver lo que se encontraba y fiandose mas de lo que le h
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Para acceder al documento conla Revision de Usabilidad de la aplicacion, ![Usability Review](Usability-review-Carlota-Braun.xlsx) pulse aqui
+>>> - Valoración final (numérica): 75(good)
+Mi cuca es muy cuca
 
 
 ## Paso 2. UX Design  
